@@ -17,12 +17,12 @@ you need to read this instruction below:
 go to ./assets/pg/admins/inc/conn.inc.php
 and change to variable $host_name value to your host name
 
-then goto your browser and type http://[farpex.me]/install
+then goto your browser and type http://farpex.me/install
 
 and follow the installation steps
 when you done
 
-goto http://[farpex.me]/admin
+goto http://farpex.me/admin
 to get to your admin panel
 
 enjoy ;-)
