@@ -1,12 +1,13 @@
-# farpex.me
+# eCommerce_website
 
 CREATED BY HASSINI AYOUB
 
 first thing that this website is on arabic language
 if you want to rtanslate him contact me:
-pexfar@gmaol.com
+azeayoub76@gmail.com
+
 AND IF YOU WANT TO SUPPORT ME ON PAYPAL:
-pexfar@gmaol.com
+azeayoub76@gmail.com
 
 see image.png is a screenshot for the home page of the website!
 
